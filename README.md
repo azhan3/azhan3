@@ -29,6 +29,8 @@
 <div align="center">  
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
 <a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>  
+<a href="https://llvm.org/" target="_blank"><img style="margin: 10px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fllvm.org%2Fimg%2FLLVMWyvernBig.png&f=1&nofb=1&ipt=eafc5f26aed34ce43493e72e39df21e7ebec736a4a97490c7e9753d747c87747&ipo=images" alt="LLVM" height="50" /></a>  
+
 </div>
 
 </td><td valign="top" width="33%">
