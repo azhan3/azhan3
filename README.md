@@ -1,24 +1,13 @@
 <div align="center">
 <img src="https://media.tenor.com/images/cdf00f711247d0fbd2b93f1bd9caecfd/tenor.gif" align="center" style="width: 100%" />
 </div>  
-  
 
-### <div align="center">早上好中国现在我有冰淇淋我很喜欢冰淇淋🍦</div>  
-  
-
-- 📈 Competitive Programming --> [Repo](https://github.com/azhan3/Competitive_Code)  
-  
-
-- 📉 Learning Machine Learning  
-  
-
-- ⚡ Fun fact: I love grass --> [Pictures](https://www.leagueoflegends.com/en-us/)  
   
 
 <br/>  
 
 
-## My Skill Set  
+
 <table><tr><td valign="top" width="33%">
 
 
